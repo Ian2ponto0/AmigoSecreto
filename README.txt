@@ -28,5 +28,5 @@ O objetivo é complementar o aprendizado colocando em prática os conhecimentos 
 - **Nenhum nome inserido**: O sorteio não será permitido se a lista estiver vazia e o usuário será alertado.
 - O sorteio só é possível caso tenha nomes já adicionados no jogo.
 
-/------------------------/------------------------/------------------------ COMO EXECUTAR: ------------------------\------------------------\------------------------\
+/------------------------/------------------------/ COMO EXECUTAR: \------------------------\------------------------\
 Para executar o projeto, você pode copiar ele e colar em um diretório de sua preferência e clicar duas vezes em cima do arquivo index.html
